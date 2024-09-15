@@ -44,10 +44,10 @@ driver = webdriver.Chrome(service=svc,options=options)
 
 # Only uncomment that year whose result you want to find 
 
-# 2020 
-# link = "https://ntaresults.nic.in/resultservices/JEEMainP1-Apr20-auth"
-# title = "NTA Result"
-# accepted_alert = "Invalid Application Number/Date of Birth."
+2020 
+link = "https://ntaresults.nic.in/resultservices/JEEMainP1-Apr20-auth"
+title = "NTA Result"
+accepted_alert = "Invalid Application Number/Date of Birth."
 
 # 2021 
 # link = "https://ntaresults.nic.in/resultservices/JEEMain2021auth"
